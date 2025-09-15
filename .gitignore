@@ -6,3 +6,9 @@
 /main.tfplan
 /terraform.tfstate
 /terraform.tfstate.backup
+
+/ssh.pub
+/ssh
+
+azure-tf-server
+azure-tf-server.pub
